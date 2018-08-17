@@ -1,2 +1,2 @@
 # ConfigData
-teset
+test
